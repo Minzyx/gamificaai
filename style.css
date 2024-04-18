@@ -59,6 +59,10 @@ header img {
     width: 290px;
 }
 
+header button{
+    display: none;
+}
+
 .menu {
     width: 700px;
 
