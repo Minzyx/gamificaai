@@ -196,7 +196,7 @@ h2 {
 
     border-radius: 4px;
 
-    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 5px rgba(0, 0, 0, 0.5);
 }
 
 .card img {
@@ -370,7 +370,6 @@ h2 {
     resize: none;
 }
 
-.campo input:focus,
 .campo-textarea textarea:focus {
     outline: 2px solid var(--laranja-gamifica);
 }
@@ -443,11 +442,20 @@ footer .container-grid {
     color: white;
 }
 
+
 .icones-redes a:hover {
     color: var(--laranja-gamifica);
 }
 
-@media screen and (max-width: 1300px) {
+.menu-fechado{
+    display: none;
+}
+
+#icone-barras{
+    display: none;
+}
+
+    @media screen and (max-width: 1300px) {
 
     header {
 
@@ -620,7 +628,7 @@ footer .container-grid {
 
     nav.menu {
         width: 100%;
-        display: none;
+       
     }
 
     #sobre {
