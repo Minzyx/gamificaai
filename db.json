@@ -1,21 +1,40 @@
 {
-    "cases":[
-         {
-        "img": "https://unsplash.it/600/400?image=5",
-        "descricao": "Uma empresa de tecnologia lança um desafio de gamificação onde os funcionários devem propor e implementar ideias iovadoras."
+  "cases": [
+    {
+      "img": "https://unsplash.it/600/400?image=5",
+      "descricao": "Uma empresa de tecnologia lança um desafio de gamificação onde os funcionários devem propor e implementar ideias iovadoras."
     },
     {
-        "img": "https://unsplash.it/600/400?image=10",
-        "descricao": "Uma empresa de consultoria cria uma narrativa interativa de gamificação para seu programa de treinamento."
+      "img": "https://unsplash.it/600/400?image=10",
+      "descricao": "Uma empresa de consultoria cria uma narrativa interativa de gamificação para seu programa de treinamento."
     },
     {
-        "img": "https://unsplash.it/600/400?image=15",
-        "descricao": "Uma empresa de vendas implementa uma competição gamificada entre equipes que competem pelo topo do ranking."
+      "img": "https://unsplash.it/600/400?image=15",
+      "descricao": "Uma empresa de vendas implementa uma competição gamificada entre equipes que competem pelo topo do ranking."
     },
     {
-        "img": "https://unsplash.it/600/400?image=20",
-        "descricao": "Uma empresa de saúde promove o bem-estar dos funcionparios através de um desafio de gamificação de condicionamento físico."
+      "img": "https://unsplash.it/600/400?image=20",
+      "descricao": "Uma empresa de saúde promove o bem-estar dos funcionparios através de um desafio de gamificação de condicionamento físico."
     }
-    ],
-    "solicitacoes": []
+  ],
+  "solicitacoes": [
+    {
+      "id": "82c6",
+      "nome": "aaaaa",
+      "email": "aaaaaa",
+      "descricao": "aaaaaa"
+    },
+    {
+      "id": "9c1a",
+      "nome": "Yasmin",
+      "email": "yasmin@email.com",
+      "descricao": "yasmin"
+    },
+    {
+      "id": "7670",
+      "nome": "",
+      "email": "",
+      "descricao": ""
+    }
+  ]
 }
